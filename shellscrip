@@ -1,0 +1,7 @@
+date
+pwd
+echo "hello from github"
+whoami
+who
+ls
+touch abc.txt
